@@ -1,0 +1,8 @@
+hello=привет
+dog=собака
+cat=кошка
+how are you=как дела
+car=машина
+crow=ворона
+bird=птица
+i=Я
